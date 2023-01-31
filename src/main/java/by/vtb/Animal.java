@@ -1,6 +1,6 @@
 package by.vtb;
 import java.util.Scanner;
-
+//hello
 public class Animal extends Creature {
     public Animal(String type, String name) {
         super(type, name);

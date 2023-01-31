@@ -2,7 +2,7 @@ package by.vtb;
 // Source code recreated from a .class file by IntelliJ IDEA
 // (powered by FernFlower decompiler)
 //
-//STAS
+//
 import java.util.LinkedList;
         import java.util.Scanner;
 
